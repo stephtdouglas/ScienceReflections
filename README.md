@@ -1,7 +1,7 @@
 # Science Reflections
 A guide for reflecting on scientific and personal experiences, and applying those to applications.
 
-The initial version of this guide was developed for a workshop at the Banneker Institute 2019. It may be applicable to other science fields, but was developed for astronomy programs in particular. I am currently a postdoc, working from my own successful applications, advice given to me, and experience editing other essays. If you have comments, concerns, or additional advice, please create an issue or email me directly! (StephanieTDouglas [aT] gmail [DoT] com)
+The initial version of this guide was developed for a workshop at the Banneker Institute 2019. It may be applicable to other science fields, but was developed for undergraduates applying to astronomy programs in particular. I am currently a postdoc, working from my own successful applications, advice given to me, and experience editing other essays. If you have comments, concerns, or additional advice, please create an issue or email me directly! (StephanieTDouglas [aT] gmail [DoT] com)
 
 ## How to use this guide
 ### Pick one of the sets of reflection questions.
@@ -41,6 +41,10 @@ The initial version of this guide was developed for a workshop at the Banneker I
  - Get as many people as you can to read your essays and give you feedback. Ask them well ahead of the deadline, so they have time to read and you have time to edit.
  - See if your school has a fellowship office and/or writing tutors who can help you
  
- ### Other resources
+ ## Other resources
  
- - [This book](https://www.amazon.com/Graduate-Admissions-Essays-Fourth-School/dp/1607743213) has some good prompts for thinking about "hooks" for your intro paragraph and overarching themes for the essay. Be careful because his advice is very broad, this isn't a replacement for talking to mentors in your field. 
+ - [This book](https://www.amazon.com/Graduate-Admissions-Essays-Fourth-School/dp/1607743213) has some good prompts for thinking about "hooks" for your intro paragraph and overarching themes for the essay. Be careful because his advice is very broad, this isn't a replacement for talking to mentors in your field. (I haven't read his book myself, but Tanveer Karim lead part of the workshop based on his prompts)
+- Lucianne Walkowicz's [excellent essay](https://arxiv.org/abs/1805.09963) "Choose Your Own Adventure: Developing A Values-Oriented Framework for Your Career" It's pitched at graduate students and postdocs, but it's never to early to start thinking about your priorities for a scientific career. 
+- [Grad school shopper](https://www.gradschoolshopper.com/gradschool/) is a free electronic or paper list of current programs, which you can sort/search through based on your reflections
+- [More links](https://www.astrobetter.com/wiki/tiki-index.php?page=Graduate+School) from AstroBetter
+
