@@ -44,7 +44,7 @@ The initial version of this guide was developed for a workshop at the Banneker I
  
  ## Other resources
  
- - [This book](https://www.amazon.com/Graduate-Admissions-Essays-Fourth-School/dp/1607743213) has some good prompts for thinking about "hooks" for your intro paragraph and overarching themes for the essay. Be careful because his advice is very broad, this isn't a replacement for talking to mentors in your field. (I haven't read his book myself, but Tanveer Karim lead part of the workshop based on his prompts)
+ - [This book](https://www.amazon.com/Graduate-Admissions-Essays-Fourth-School/dp/1607743213) has some good prompts for thinking about "hooks" for your intro paragraph and overarching themes for the essay. Be careful because his advice is very broad, this isn't a replacement for talking to mentors in your field. (I haven't read his book myself, but Tanveer Karim used his prompts as part of a reflection aimed at developing "hooks" to introduce/frame essays, and our students found that very helpful.)
 - Lucianne Walkowicz's [excellent essay](https://arxiv.org/abs/1805.09963) "Choose Your Own Adventure: Developing A Values-Oriented Framework for Your Career" It's pitched at graduate students and postdocs, but it's never to early to start thinking about your priorities for a scientific career. 
 - [Grad school shopper](https://www.gradschoolshopper.com/gradschool/) is a free electronic or paper list of current programs, which you can sort/search through based on your reflections
 - [More links](https://www.astrobetter.com/wiki/tiki-index.php?page=Graduate+School) from AstroBetter
