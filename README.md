@@ -1,7 +1,7 @@
 # Science Reflections
 A guide for reflecting on scientific and personal experiences, and applying those to applications.
 
-The initial version of this guide was developed for a workshop at the Banneker Institute 2019. 
+The initial version of this guide was developed for a workshop at the Banneker Institute 2019. It may be applicable to other science fields, but was developed for astronomy programs in particular. I am currently a postdoc, working from my own successful applications, advice given to me, and experience editing other essays. If you have comments, concerns, or additional advice, please create an issue or email me directly! (StephanieTDouglas [aT] gmail [DoT] com)
 
 ## How to use this guide
 ### Pick one of the sets of reflection questions.
@@ -40,3 +40,7 @@ The initial version of this guide was developed for a workshop at the Banneker I
    - In prep/submitted papers can still be helpful; check with your advisor
  - Get as many people as you can to read your essays and give you feedback. Ask them well ahead of the deadline, so they have time to read and you have time to edit.
  - See if your school has a fellowship office and/or writing tutors who can help you
+ 
+ ### Other resources
+ 
+ - [This book](https://www.amazon.com/Graduate-Admissions-Essays-Fourth-School/dp/1607743213) has some good prompts for thinking about "hooks" for your intro paragraph and overarching themes for the essay. Be careful because his advice is very broad, this isn't a replacement for talking to mentors in your field. 
